@@ -102,7 +102,7 @@ Now, your Python application can make requests to the backend for payee name res
 
 **Q: Why is the backend implemented in Node.js and not Python?**
 
-A: During development, the PAYU SDK for Python wasn't working as expected, so a Node.js SDK was used as an alternative. It's recommended for testing and development purposes, and you can use non-commercial keys with it.
+A: During development, the PAYU SDK for Python wasn't working as expected, so a Node.js SDK was used as an alternative.
 
 **Q: Why is MySQL needed?**
 
