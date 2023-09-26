@@ -1,4 +1,4 @@
-# ICICI Bank Statement Parser
+# UPI Statement Parser
 
 The UPI Statement Parser is a Python & Node based tool that helps you organize and parse your bank statements(only ICICI bank at the time of writing). It specifically focuses on extracting valuable information from the "Transaction Remarks" column for transactions done via UPI. This information is then split into three distinct columns: Payee, Cheque Number, and Transaction Remarks
 
